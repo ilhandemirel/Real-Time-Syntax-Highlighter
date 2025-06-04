@@ -10,7 +10,7 @@ Arka planda kendi **Lexer → Parser → GUI** zincirimiz çalışır; hazır k�
 - **Tkinter GUI** – satır numaraları, anlık hata iletisi, <KeyRelease> tetiklemeli otomatik renklendirme.
 
 ## 📺 Youtube Videosu
-[![YouTube](https://youtu.be/YykB6CrarkI)
+[YouTube](https://youtu.be/YykB6CrarkI)
 
 ## 📄 Raporlar
 | Belge | Biçim | Link |
